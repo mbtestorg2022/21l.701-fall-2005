@@ -22,12 +22,57 @@ Work Expectations
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class work (discussion responsibilities as speaker, listener, teamwork, adjudicator) | 20% |
-| Curatorial project | 30% |
-| Team projects | 40% |
-| Family photo project | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class work (discussion responsibilities as speaker, listener, teamwork, adjudicator)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Curatorial project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team projects
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Family photo project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -37,18 +82,183 @@ Plagiarism - the use of another's intellectual work without acknowledgement - is
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductions, syllabi  {{< br >}}  {{< br >}}Daguerreotypes/Walt Whitman | &nbsp; |
-| &nbsp; | No class, but reading assigned | &nbsp; |
-| 2 | The Civil War, photography, witness and motion | &nbsp; |
-| 3 | Poems by Robert Browning, Wilifred Owen, and Ezra Pound | Family photo project due |
-| &nbsp; | No class, but excursion assigned | &nbsp; |
-| 4 | Film: _Manahatta_ | &nbsp; |
-| 5 | William Carlos Williams poems | &nbsp; |
-| 6 | Charlie Chaplin  {{< br >}}  {{< br >}}Film: _Modern Times_ | &nbsp; |
-| 7 | Films: _The River_, _The Plough that Broke the Plains_ | &nbsp; |
-| 8 | "The Migrant Mother" | &nbsp; |
-| 9 | _The Grapes of Wrath  {{< br >}}  {{< br >}}_Team Presentations | Curatorial project proposal due |
-| 10 | Hilda Doolittle's _Trilogy_ | &nbsp; |
-| 11 | Student presentations of curatorial projects | Curatorial project write-up due seven days after Lec #11
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions, syllabi  
+  
+Daguerreotypes/Walt Whitman
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No class, but reading assigned
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Civil War, photography, witness and motion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Poems by Robert Browning, Wilifred Owen, and Ezra Pound
+{{< tdclose >}}
+{{< tdopen >}}
+Family photo project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No class, but excursion assigned
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Manahatta_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+William Carlos Williams poems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Charlie Chaplin  
+  
+Film: _Modern Times_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Films: _The River_, _The Plough that Broke the Plains_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+"The Migrant Mother"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_The Grapes of Wrath  
+  
+_Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Curatorial project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Hilda Doolittle's _Trilogy_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of curatorial projects
+{{< tdclose >}}
+{{< tdopen >}}
+Curatorial project write-up due seven days after Lec #11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
